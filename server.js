@@ -12,7 +12,7 @@ const supplier=require('./modules/supplier.module/supplier.route');
 
 const app = express();
 app.use(bodyParser.json());
-app.use('/sup',supplier);
+app.use('/supplier',supplier);
 
 mongoose.connect('mongodb://codechamps:codechamps123@ds129651.mlab.com:29651/codechamps', err => {
     if (err) {
@@ -25,7 +25,7 @@ mongoose.connect('mongodb://codechamps:codechamps123@ds129651.mlab.com:29651/cod
 });
 
 app.get('/', (req, res, next) => {
-    res.sendFile(__dirname + '/main/index.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 
 
