@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ashani Madhushika <Ashanikulasinghe@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ashi9422/AF",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "bootstrap-css": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

@@ -14,6 +14,8 @@ const app = express();
 app.use(bodyParser.json());
 app.use('/supplier',supplier);
 
+app.use(express.static(__dirname + '/public'));
+
 mongoose.connect('mongodb://codechamps:codechamps123@ds129651.mlab.com:29651/codechamps', err => {
     if (err) {
         console.log(err);
@@ -23,6 +25,11 @@ mongoose.connect('mongodb://codechamps:codechamps123@ds129651.mlab.com:29651/cod
         console.log('connect to the database');
     }
 });
+
+app.get('/', (req, res, next) => {
+    res.sendFile(__dirname + '/public/index.html');
+});
+
 
 app.get('/', (req, res, next) => {
     res.sendFile(__dirname + '/public/index.html');

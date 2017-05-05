@@ -2,579 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3ab4d7-b38f-4313-9d0c-44d8f90dab81" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/Chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/Chart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/Chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/prettify.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/docs/styles.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/doughnut.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/line.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/pie.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/polarArea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/radar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/samples/sixup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/6charts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/Chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/html.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/assets/simple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/chart-master/site/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/CHANGES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/build-config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/ckeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/contents.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/bn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/en-au.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/en-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/en-gb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/fo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ka.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/sr-latn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/fakeobjects/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/image/images/noimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/link/images/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/scayt/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/appendto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/inlineall/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/sample.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/assets/uilanguages/languages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/divreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/inlineall.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/inlinebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/dialog/dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/enterkey/enterkey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/magicline/magicline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/toolbar/toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/readonly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/replacebyclass.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/replacebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/sample.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/sample_posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/tabindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/uicolor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/uilanguages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/samples/xhtmlstyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/dialog_opera.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/images/mini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/skins/moono/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/ckeditor/styles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/GPL-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/agenda-views.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/basic-views.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/cupertino/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/external-dragging.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/gcal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/json-events.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/json.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/selectable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/demos/theme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/fullcalendar.print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/fullcalendar/gcal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/jquery/jquery-1.8.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/fullcalendar/jquery/jquery-ui-1.8.23.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/examples/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/examples/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/img/easy-pie-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/blueimp-file-upload.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/cors/postmessage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/cors/result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/css/jquery.fileupload-ui-noscript.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/css/jquery.fileupload-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/img/progressbar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/cors/jquery.postmessage-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/cors/jquery.xdr-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/jquery.fileupload-fp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/jquery.fileupload-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/jquery.fileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/jquery.iframe-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/vendor/canvas-to-blob.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/vendor/jquery.ui.widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/vendor/load-image.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/js/vendor/tmpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-go/app.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-go/app/main.go" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-go/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-go/static/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-python/app.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-python/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-python/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/gae-python/static/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/node/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/node/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/node/public/files/thumbnail/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/node/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/node/tmp/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/php/UploadHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/php/files/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/php/files/gr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/php/files/style-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/server/php/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-file-upload/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-knob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-knob/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-knob/js/jquery.knob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/animated-overlay.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_228ef1_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_ef8c08_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_ffd27a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/jquery-ui-1.10.1.custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/jquery-ui-1.10.1.custom.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/jquery-ui-1.10.1.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/jquery-ui-1.10.2.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/jquery-ui/jquery-ui-1.9.2.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/_template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/area-as-line.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/area.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/bar-colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/bar-no-axes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/days.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/decimal-custom-hover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/diagonal-xlabels-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/diagonal-xlabels.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/donut-colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/donut-formatter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/donut.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/dst.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/goals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/lib/example.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/lib/example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/lib/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/lib/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/months-no-smooth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/negative.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/no-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/non-continuous.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/non-date.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/quarters.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/stacked_bars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/timestamps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/updating.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/weeks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/examples/years.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/grunt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/less/morris.core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.area.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.bar.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.donut.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.grid.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.hover.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/lib/morris.line.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/morris.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/morris.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/morris.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/raphael-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/area/area_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/bar/bar_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/bar/colours.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/commas_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/donut/donut_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/grid/auto_grid_lines_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/grid/set_data_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/grid/y_label_format_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/hover_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/label_series_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/line/line_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/pad_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/lib/parse_time_spec.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/specs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/support/placeholder.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/chai-1.3.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/chai-jquery-1.1.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/raphael-2.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/sinon-1.5.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/morris.js-0.4.3/spec/vendor/sinon-chai-2.1.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/basic_table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/chart-chartjs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/elegant-icons-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/jquery-jvectormap-1.2.2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/jquery-ui-1.10.4.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/line-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/style-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/css/xcharts.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/ElegantIcons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/ElegantIcons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/ElegantIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/ElegantIcons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/form_component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/general.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/grids.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/Germany.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/India.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/Russia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/Spain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/arrow-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar-mini.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar-mini2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar-mini3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar-mini4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/avatar1_small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/bg-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/chart-texture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/chat-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/chat-avatar2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/customSelect-arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/geekslabs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/line-icon-c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/line-icon-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/line-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/search-line-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/social.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/weather-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/icons/weather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/left-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/logo-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/mail-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/profile-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/profile-widget-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/right-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/sample-img-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/sample-img-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/sample-img-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/search-icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/user.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/img/user22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/additional-methods.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/bootstrap-switch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/bootstrap-wysiwyg-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/bootstrap-wysiwyg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/calendar-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/chartjs-custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/charts-flot.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/charts-other.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/charts-xcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/charts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/dynamic-table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/easy-pie-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/form-component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/form-validation-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/ga.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/gdp-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/gritter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery-jvectormap-1.2.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery-jvectormap-world-mill-en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery-ui-1.10.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery-ui-1.9.2.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.autosize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.customSelect.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.flot.pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.hotkeys.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.localscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.nicescroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.placeholder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.rateit.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.scrollTo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.smartWizard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.sparkline-11.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.sparkline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.stepy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.tagsinput.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/lte-ie7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/morris-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/morris.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/sliders.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/sparkline-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/sparklines.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/js/xcharts.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/widgets.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bower/package.json" afterPath="$PROJECT_DIR$/node_modules/bower/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/basic_table.html" afterPath="$PROJECT_DIR$/public/basic_table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blank.html" afterPath="$PROJECT_DIR$/public/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/buttons.html" afterPath="$PROJECT_DIR$/public/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/chart-chartjs.html" afterPath="$PROJECT_DIR$/public/chart-chartjs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/form_component.html" afterPath="$PROJECT_DIR$/public/form_component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/form_validation.html" afterPath="$PROJECT_DIR$/public/form_validation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/general.html" afterPath="$PROJECT_DIR$/public/general.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/grids.html" afterPath="$PROJECT_DIR$/public/grids.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/profile.html" afterPath="$PROJECT_DIR$/public/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/widgets.html" afterPath="$PROJECT_DIR$/public/widgets.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -593,21 +33,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.js">
+      <file leaf-file-name="buttons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/buttons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="391">
+              <caret line="347" column="23" lean-forward="false" selection-start-line="347" selection-start-column="23" selection-end-line="347" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+      <file leaf-file-name="chart-chartjs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/chart-chartjs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form_component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form_component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="350" column="23" lean-forward="false" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form_validation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/form_validation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/general.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grids.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/grids.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-881">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/main.routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgets.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/widgets.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -625,6 +145,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>body</find>
+      <find>You have 4 new notifications</find>
+      <find>Countries</find>
+      <find>NICEADMIN</find>
+      <find>home</find>
+      <find>dashb</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -641,6 +166,17 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main/index.html" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/basic_table.html" />
+        <option value="$PROJECT_DIR$/public/blank.html" />
+        <option value="$PROJECT_DIR$/public/buttons.html" />
+        <option value="$PROJECT_DIR$/public/chart-chartjs.html" />
+        <option value="$PROJECT_DIR$/public/form_component.html" />
+        <option value="$PROJECT_DIR$/public/form_validation.html" />
+        <option value="$PROJECT_DIR$/public/general.html" />
+        <option value="$PROJECT_DIR$/public/grids.html" />
+        <option value="$PROJECT_DIR$/public/profile.html" />
+        <option value="$PROJECT_DIR$/public/widgets.html" />
       </list>
     </option>
   </component>
@@ -662,7 +198,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -699,6 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -727,8 +265,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -740,16 +276,17 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../expressjs-sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\3rd Year\AF\AFTEST\main\css" />
-      <recent name="F:\3rd Year\AF\AFTEST\main" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\3rd Year\AF\AFTEST\main" />
       <recent name="F:\3rd Year\AF\AFTEST\main\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\3rd Year\AF\AFTEST\public" />
+      <recent name="F:\3rd Year\AF\AFTEST\main\css" />
+      <recent name="F:\3rd Year\AF\AFTEST\main" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.server.js">
@@ -838,24 +375,27 @@
       <workItem from="1493796602184" duration="5742000" />
       <workItem from="1493869583994" duration="491000" />
       <workItem from="1493872526306" duration="1798000" />
-      <workItem from="1493880217986" duration="7929000" />
+      <workItem from="1493880217986" duration="9596000" />
+      <workItem from="1493897881142" duration="1435000" />
+      <workItem from="1493951826538" duration="9338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26275000" />
+    <option name="totallyTimeSpent" value="38715000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2872024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21603929" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.492635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -863,7 +403,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -884,6 +423,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
@@ -894,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,23 +456,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/main.routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.routes.js" />
     <entry file="file://$PROJECT_DIR$/modules/supplier.module/supplier.route.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -982,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -998,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,18 +575,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main/index.html" />
     <entry file="file://C:/xampp/htdocs/CodingChumsPharmacy/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.routes.js" />
+    <entry file="file://$PROJECT_DIR$/main/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/main/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-css/.bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-css/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1063,15 +619,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/supplier.module/supplier.route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-681">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/supplier.module/supplier.model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="339">
           <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/main.routes.js">
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="8" column="717" lean-forward="false" selection-start-line="8" selection-start-column="717" selection-end-line="8" selection-end-column="717" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1079,42 +667,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/supplier.module/supplier.route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="332" column="0" lean-forward="false" selection-start-line="332" selection-start-column="0" selection-end-line="356" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/basic_table.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="347" column="23" lean-forward="false" selection-start-line="347" selection-start-column="23" selection-end-line="347" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chart-chartjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form_component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="350" column="23" lean-forward="false" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/form_validation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/grids.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="346" column="23" lean-forward="false" selection-start-line="346" selection-start-column="23" selection-end-line="346" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-881">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/main.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="345" column="23" lean-forward="false" selection-start-line="345" selection-start-column="23" selection-end-line="345" selection-end-column="23" />
           <folding />
         </state>
       </provider>
